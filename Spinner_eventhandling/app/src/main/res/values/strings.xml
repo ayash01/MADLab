@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner_eventhandling</string>
+
+    <string-array name="fruits">
+        <item>Select an option...</item>
+        <item>Apples</item>
+        <item>Oranges</item>
+        <item>Bananas</item>
+        <item>Strawberries</item>
+        <item>Grapes</item>
+    </string-array>
+
+</resources>
